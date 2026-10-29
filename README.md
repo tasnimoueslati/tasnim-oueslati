@@ -6,7 +6,7 @@
 🎯 Je recherche un **stage PFE de 6 mois** en **DevSecOps, Cloud Computing, CI/CD ou 'Intelligence Artificielle**.
 
 📍 Ben Arous, Tunisie  
-✉️ [Tasnim.OUESLATI@esprit.tn](mailto:Tasnim.OUESLATI@esprit.tn)  
+✉️ [Tasnim.OUESLATI@esprit.tn](mailto:oueslatitasnim75@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/tasnim-oueslati-23813b230)
 
 ---
