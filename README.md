@@ -3,7 +3,7 @@
 
 Étudiante en dernière année du cycle ingénieur en informatique, spécialisée en **Cloud Computing à ESPRIT (Tunisie)**.
 
-🎯 Je recherche un **stage PFE de 6 mois à partir de janvier 2027** en **DevSecOps, Cloud Computing, CI/CD ou 'Intelligence Artificielle**.
+🎯 Je recherche un **stage PFE de 6 mois** en **DevSecOps, Cloud Computing, CI/CD ou 'Intelligence Artificielle**.
 
 📍 Ben Arous, Tunisie  
 ✉️ [Tasnim.OUESLATI@esprit.tn](mailto:Tasnim.OUESLATI@esprit.tn)  
@@ -99,7 +99,7 @@ Développement d'un assistant intelligent basé sur LangGraph pour automatiser p
 
 **Technologies :** `Python` `LangGraph` `RAG` `pgvector` `n8n` `Telegram` `Streamlit`
 
-🔗 [Voir le dépôt GitHub]https://github.com/tasnimoueslati/JobPilot-AI.git)
+🔗 [Voir le dépôt GitHub](https://github.com/tasnimoueslati/JobPilot-AI.git)
 
 ### 🌱 GreenRoots — Plateforme agricole Cloud Native
 
